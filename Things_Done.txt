@@ -1,0 +1,14 @@
+this html file runs on a local server 
+i made hyperlinks picture+text
+added a gif
+imported a custom font from google fonts and used imported
+the hyperlinks open on new page and not the same page
+colour gradient with css
+used float to add image between text
+added an embedded youtube video in article.
+added contact us page where logos of gmail, whatsapp and instagram takes me to my profile
+hover when about to click on
+search bar
+notification
+author accounts
+added target to make the new links appear on another tab
